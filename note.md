@@ -150,6 +150,9 @@ http://happypeter.github.com/LGCB/
 
 http://billie66.github.com/TLCL/book/
 
+# reading
+
+http://norvig.com/21-days.html
 
 ## some of my favorite sites
 
