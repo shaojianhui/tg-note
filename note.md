@@ -1,3 +1,5 @@
+# C
+http://tldp.org/HOWTO/Program-Library-HOWTO/
 # my video
 
 http://media.happypeter.org/screencasts.html
