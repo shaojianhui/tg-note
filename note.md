@@ -113,6 +113,18 @@ http://dict.youdao.com/
 
 bash is a kind of shell. 
 
+## where are you?
+
+    which ls
+    
+    locate vimrc
+    sudo updatedb
+
+find a string in a project
+
+https://github.com/happypeter/hen/blob/master/search/curse/xxx.c
+
+
 ## filesystem tree
 
     ls
