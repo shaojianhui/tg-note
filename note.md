@@ -6,6 +6,9 @@ http://media.happypeter.org/screencasts.html
 
 # vim
 
+### video
+
+http://www.derekwyatt.org/vim/vim-tutorial-videos/vim-novice-tutorial-videos/
     Command = operator + number + motion
                 d(elete)  1,2
                 y(ank)             gg+G
